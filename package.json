@@ -1,0 +1,26 @@
+{
+  "name": "react-photo-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "react",
+    "image-gallery"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-image-gallery": "0.8.10",
+    "react-images": "0.5.19",
+    "react-measure": "2.1.0",
+    "react-photo-gallery": "6.2.0",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
